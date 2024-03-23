@@ -13,7 +13,7 @@ I am a very big professional wrestling fan and I made this tool a few years ago 
 1. Copy the link of the matchguide list you want to extract the data from. For example: https://www.cagematch.net/?id=8&nr=1&page=7
 
    ![image](!https://github.com/GoodbyeKittyy/Web-Scraper-For-Cagematch-Website/assets/161730857/10928775-5ac8-4461-8dd1-82b53baf6b5f)
-)<br><br>
+<br><br>
 
 
 
