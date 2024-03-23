@@ -21,7 +21,8 @@ I am a very big professional wrestling fan and I made this tool a few years ago 
 
 2. Paste the link into cell B2 and press the "Extract Web Data" button.
 
-![image](https://github.com/SIT-ZHENYANG/WEB-SCRAPPER-FOR-CAGEMATCH-WEBSITE/assets/152409352/ff8b1478-7de7-470d-a97d-e5906eb91897)<br><br>
+![image](https://github.com/GoodbyeKittyy/Web-Scraper-For-Cagematch-Website/assets/161730857/f4f9e92c-6753-425f-b3d9-1a8b18a8403e)
+<br><br>
 
 
 
@@ -32,4 +33,5 @@ Ratings System:
 " >= 8.5 & < 9.5 , Gold Fill and Black Font
 " >=8.00 & <9.5 , Blue Fill and Black Font
 
-![image](https://github.com/SIT-ZHENYANG/WEB-SCRAPPER-FOR-CAGEMATCH-WEBSITE/assets/152409352/65d1ee0d-aac2-433f-b2a2-9c5bd0129891)
+![image](https://github.com/GoodbyeKittyy/Web-Scraper-For-Cagematch-Website/assets/161730857/dc053e55-3181-4522-803d-e5fdcda8574c)
+
